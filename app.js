@@ -1,6 +1,6 @@
 /*
-* Original author: HG
-* Latest contributor: HG
+* Original author: CL
+* Latest contributor: CL
 * Client name: Immersicom
 * Project name: Immersicom
 * Project number: 0
